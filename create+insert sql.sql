@@ -113,8 +113,8 @@ INSERT INTO `msuser` (`UserID`, `Username`, `UserPhoneNumber`, `UserEmail`, `Use
 ('US008', 'cladmin','+6281890123456', 'cl@gmail.com', 'cl123456', 'Male', 'User'),
 ('US009', 'jingyuansayang', '+6281901234567','starrail@gmail.com', 'jingyuan123', 'Male', 'User'),
 ('US010', 'stevebauadmin','+6282123456789', 'steve@gmail.com', 'steve123', 'Male', 'User'),
-('US011', 'dummyuser', 'dummyuser@gmail.com', 'dummyuser123', 'Male', 'User'),
-('US012', 'admin', 'admin@gmail.com', 'admin123', 'Male', 'Admin');
+('US011', 'dummyuser','+6212312312312' ,'dummyuser@gmail.com', 'dummyuser123', 'Male', 'User'),
+('US012', 'admin', '+62987615289523' ,'admin@gmail.com', 'admin123', 'Male', 'Admin');
 
 -- --------------------------------------------------------
 
