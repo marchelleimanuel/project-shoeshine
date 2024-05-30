@@ -12,12 +12,15 @@ Shoeshine is a simple and user-friendly app for taking care of your shoes. It al
 - JavaFX
 - MySQL
 
-## Installation
+## Getting Started (Eclipse IDE)
 ```
-1. Clone the repository: git clone https://github.com/your-username/project-shoeshine.git
-2. Open in VSCode
-3. Make sure to download "Extension Pack for Java" extension
-4. Run the code
+- Clone the repository
+- Open the localhost/phpmyadmin/
+- Make sure to create the database named 'cangkir'
+- Copy the query given in sql file
+- Go to SQL tab in localhost/phpmyadmin/ then paste the query
+- Click Go
+- Run the application in Eclipse IDE
 ```
 
 ## Demo 
