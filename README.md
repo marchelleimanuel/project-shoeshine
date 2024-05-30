@@ -1,11 +1,16 @@
 # Shoeshine
-Shoeshine is a simple and user-friendly app for taking care of your shoes. It allow users to order shoe cleaning services to make their shoes look their best or get premium cleaning products. As an admin, there's additional feature such as cup management (Create, Read, Update, Delete). Shoeshine is built using Java, JavaFX and integrated with MySQL for the database.
+Shoeshine is a simple and user-friendly app for taking care of your shoes. It allow users to order shoe cleaning services to make their shoes look their best or get premium cleaning products. As an admin, there's additional feature such as cup management (Create, Read, Update, Delete).
 
 ## Features
 - User Registration and Authentication
 - Simple and User-Friendly Design
 - Cart and Checkout Feature
 - Admin Management Feature
+
+## Technologies Used
+- Java
+- JavaFX
+- MySQL
 
 ## Installation
 ```
