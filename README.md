@@ -33,4 +33,5 @@ You can login use these username and password:
 
 ## Demo 
 Check out the demo video of Shoeshine: 
+- [Demo](https://youtu.be/nqYNhtbGBcA).
 
